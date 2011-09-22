@@ -1,0 +1,25 @@
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING EMS. MEDICAL IMAGE
+COMPUTING/ESAT-PSI/K.U.LEUVEN, FURTHER MENTIONED AS KU LEUVEN, WILL
+LICENSE EMS TO YOU ONLY IF YOU FIRST ACCEPT THE TERMS OF THIS
+AGREEMENT. BY USING EMS YOU AGREE TO THESE TERMS.
+
+Within the scope of scientific collaboration and exchange of research
+results in the domain of image analysis, software developed by KU
+LEUVEN for multi-spectral MR image classification is distributed free
+of charge and without warranty. Copyright remains with KU LEUVEN. This
+software is developed as an add-on to the Statistical Parametric
+Mapping (SPM) package developed by the Wellcome Department of
+Cognitive Neurology, Institute of Neurology, University College
+London. Copyright of the SPM-package remains with this institute.
+
+This software shall be used by for experimentation only. It is not
+allowed to take commercial advantage of this software as it is or with
+modifications without an updated agreement. It is not allowed to
+distribute this software as it is or with modifications to third
+parties without written consent of KU LEUVEN. In all publications
+using this software the contribution of KU LEUVEN shall be mentioned
+appropriately.
+
+The distribution of software developed at KU LEUVEN is not at all
+exclusive. KU LEUVEN keeps the right to distribute this software to
+other interested parties.
