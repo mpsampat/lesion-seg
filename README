@@ -1,0 +1,4 @@
+This is code repo for MS lesion segmentation. Initally, I will start 
+with EMS code from Koen Leemput. This code was downloaded from here: 
+http://mirc.uzleuven.be/MedicalImageComputing/downloads/ems.php
+It needs SPM99 (http://www.fil.ion.ucl.ac.uk/spm/software/spm99/)
